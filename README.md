@@ -1,4 +1,4 @@
-# VerilogRISCVProcessor
+# verilog RISC-V processor
 
 本プロジェクトでは，RISC-Vアーキテクチャに基づいたパイプライン型プロセッサと，それをさらに拡張したスーパースカラプロセッサの設計と実装を行った。
 
