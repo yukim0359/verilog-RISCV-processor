@@ -1,0 +1,6 @@
+*.elf
+*.hex
+*.dump
+*.bin
+*.o
+obj_dir
